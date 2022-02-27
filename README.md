@@ -1,4 +1,4 @@
-# Semaniario DCU.
+# Seminario DCU.
 
 ## Autores:
 
